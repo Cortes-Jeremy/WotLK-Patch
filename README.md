@@ -10,7 +10,7 @@ Used tools: Blender / WowModelViewer / wow.export / 010Editor with custom script
 
 Tested on Warmane-Icecrown
 
-## Blades edge's: (not released yet)
+## Blades edge's
 
 <div style="display:flex;align-items:center;">
     <a href="https://user-images.githubusercontent.com/56119078/108191405-60f63e80-7113-11eb-97b8-6e3dbb742718.jpg" style="padding:0.34rem;">
@@ -21,7 +21,7 @@ Tested on Warmane-Icecrown
     </a>
 </div>
 
-## Nagrand (not released yet)
+## Nagrand
 
 <div style="display:flex;align-items:center;">
     <a href="https://user-images.githubusercontent.com/56119078/108191190-28566500-7113-11eb-9b32-a2d560f8afc6.jpg" style="padding:0.34rem;">
@@ -35,7 +35,7 @@ Tested on Warmane-Icecrown
     </a>
 </div>
 
-## Ruin of Lordaeron (not released yet)
+## Ruin of Lordaeron
 
 <div style="display:flex;align-items:center;">
     <a href="https://user-images.githubusercontent.com/56119078/108190772-acf4b380-7112-11eb-9da8-6410d4f5c7bd.jpg" style="padding:0.34rem;">
@@ -49,7 +49,7 @@ Tested on Warmane-Icecrown
     </a>
 </div>
 
-## Dalaran Sewer (Patch-W)
+## Dalaran Sewer
 
 <div style="display:flex;align-items:center;">
     <a href="https://user-images.githubusercontent.com/56119078/108190988-ea594100-7112-11eb-899f-9d87916bcd46.jpg" style="padding:0.34rem;">
