@@ -38,14 +38,14 @@ Tested on Warmane-Icecrown
 ## Ruin of Lordaeron
 
 <div style="display:flex;align-items:center;">
-    <a href="https://user-images.githubusercontent.com/56119078/108190772-acf4b380-7112-11eb-9da8-6410d4f5c7bd.jpg" style="padding:0.34rem;">
-        <img src="https://user-images.githubusercontent.com/56119078/108190772-acf4b380-7112-11eb-9da8-6410d4f5c7bd.jpg">
+    <a href="https://user-images.githubusercontent.com/56119078/118379876-3dda0e80-b5de-11eb-9bb7-e3b1e0e76aa1.jpg" style="padding:0.34rem;">
+        <img src="https://user-images.githubusercontent.com/56119078/118379876-3dda0e80-b5de-11eb-9bb7-e3b1e0e76aa1.jpg">
     </a>
-    <a href="https://user-images.githubusercontent.com/56119078/108190854-c0a01a00-7112-11eb-85f1-f79f284879d6.jpg" style="padding:0.34rem;">
-        <img src="https://user-images.githubusercontent.com/56119078/108190854-c0a01a00-7112-11eb-85f1-f79f284879d6.jpg">
+    <a href="https://user-images.githubusercontent.com/56119078/118379880-4599b300-b5de-11eb-9cf2-4f3c4ab1be8c.jpg" style="padding:0.34rem;">
+        <img src="https://user-images.githubusercontent.com/56119078/118379880-4599b300-b5de-11eb-9cf2-4f3c4ab1be8c.jpg">
     </a>
-    <a href="https://user-images.githubusercontent.com/56119078/108190932-d6154400-7112-11eb-8a68-85666672d2a8.jpg" style="padding:0.34rem;">
-        <img src="https://user-images.githubusercontent.com/56119078/108190932-d6154400-7112-11eb-8a68-85666672d2a8.jpg">
+    <a href="https://user-images.githubusercontent.com/56119078/118379882-4a5e6700-b5de-11eb-8d31-d63d0771e4a7.jpg" style="padding:0.34rem;">
+        <img src="https://user-images.githubusercontent.com/56119078/118379882-4a5e6700-b5de-11eb-8d31-d63d0771e4a7.jpg">
     </a>
 </div>
 
