@@ -1,0 +1,9 @@
+I used some other tools you can find herer: https://model-changing.net/
+
+I packed in this zip only "rare" tools I had hard time finding
+
+- wow export latest version
+- Blender 2.79b for wmo import script
+- Blender latest version for wow export
+- 010 editor
+- mpq editor

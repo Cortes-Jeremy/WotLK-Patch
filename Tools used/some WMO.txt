@@ -1,0 +1,25 @@
+Thanks for downloading! Here are a few links for my WMO patches. 
+
+Patch R has some textures for all expansion wmos, so some may not display correctly without them.
+
+------------------------
+Patch Descriptions
+------------------------
+patch m- Cataclysm
+patch n- Mists of Pandaria
+patch o- Warlords of Draenor
+patch p- Legion
+patch q- Battle for Azeroth
+EnvZIP - Environment Textures (REQUIRED)
+
+
+------------------------
+Downloads
+------------------------
+
+M- 	https://drive.google.com/open?id=1hq26qod6DiRccKUbJGWZbHiwP9lOHpBw
+N- 	https://drive.google.com/open?id=1Bfy8QOBZypPVtE-X0Fq9HGd11MZ7LgkN
+O- 	https://drive.google.com/open?id=1EeLtAGJ2DcoIDUjqJSAUXwynR9Pan4GS
+P- 	https://drive.google.com/open?id=1abMu8l-YGbWnviChgBZghHlCEGBGYotK
+Q- 	https://drive.google.com/open?id=1ftqvEF2bcVlSUenibMHHMDroHBaJJqqw
+EnvZIP- https://drive.google.com/file/d/1aDQYh7bFWRLoVHUZvFl6MBVExnAiIP_B/view?usp=sharing
