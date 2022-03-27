@@ -1,5 +1,9 @@
 [![Game Version](https://img.shields.io/badge/wow-3.3.5-blue.svg)](https://github.com/ElvUI-WotLK)
 
+# ---------------------------------
+# V2: https://discord.gg/gaXechNRDg
+# ---------------------------------
+
 # Arena patches - Wrath of the Lich King (3.3.5a)
 
 Theses are Meant to be standalone patches that do not interfere with the world outside arena.
